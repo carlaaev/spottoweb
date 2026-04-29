@@ -4,16 +4,12 @@
 
 </script>
 
-<!-- Header -->
-<Header />
 
 <!-- Page Content -->
  <main>
     <slot />
  </main>
 
- <!-- Footer -->
-<Footer />
 
 <style>
 
